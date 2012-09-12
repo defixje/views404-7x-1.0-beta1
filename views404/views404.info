@@ -1,0 +1,6 @@
+name = Views 404
+description = Return 404 if the path doesn't match the view path.
+core = 7.x
+package = Views
+dependencies[] = views
+
